@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Premier commit SGRDMS"
+git branch -M main
+git remote add origin https://github.com/TON_USERNAME/sgrdms-tropical.git
+git push -u origin main
